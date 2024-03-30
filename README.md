@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shivansh113/shivansh113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdhdG1xdW5hNjUzMzVyY2RpaWU2bnVrNmgzanViYndsNmZlcWNqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+</div>
