@@ -19,18 +19,20 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="[https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/shivansh-dutt-3097a7271/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
   
-  </a>
 </div>
  
-<img src="https://komarev.com/ghpvc/?username=shivansh113&style=flat-square&color=blue" alt=""/>
+<div id="views" align="center">
+    <img src="https://komarev.com/ghpvc/?username=shivansh113&style=flat-square&color=blue" alt=""/>
+</div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1 align="center">
+    Welcome to my Profile
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### :man_technologist: About Me :
